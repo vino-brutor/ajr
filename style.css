@@ -1,0 +1,33 @@
+.logo {
+  height: 50px;
+}
+nav {
+  font-size: 30px;
+}
+.eles{
+  height: 500px;
+}
+ul {
+  font-size: 20px;
+}
+.livingRoom{
+  color: gray;
+}
+.click{
+  color:purple
+}
+.neo {
+  color: rgb(33, 65, 207);
+}
+.oko {
+  color: red;
+}
+.album {
+  height: 20px;
+}
+table {
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+}
